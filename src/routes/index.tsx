@@ -6,10 +6,12 @@ export default function Home() {
     <main>
       <Title>Maintenance</Title>
       <h1>Maintenance. Please check back later.</h1>
-      </br></br>
+      
       <p>taken over by Kai</p>
-      I have reached out to you by email,</br>
-      Most sincerely,</br></br>Kai
+      <p>I have reached out to you by email,
+      Most sincerely,
+      
+      Kai</p>
     </main>
   );
 }
