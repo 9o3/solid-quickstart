@@ -4,8 +4,12 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>taken over by Kai</Title>
-      <h1>Taken over by Kai</h1>
+      <Title>Maintenance</Title>
+      <h1>Maintenance. Please check back later.</h1>
+      </br></br>
+      <p>taken over by Kai</p>
+      I have reached out to you by email,</br>
+      Most sincerely,</br></br>Kai
     </main>
   );
 }
